@@ -1,0 +1,11 @@
+---
+services:
+  service-1:
+    Group: Security
+    Service: first
+    Team: Team 1
+  service-2:
+    Group: Engineering
+    Service: second
+    Team: Team 2
+

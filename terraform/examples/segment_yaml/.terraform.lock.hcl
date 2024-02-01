@@ -1,0 +1,24 @@
+# This file is maintained automatically by "terraform init".
+# Manual edits may be lost in future updates.
+
+provider "registry.terraform.io/vantage-sh/vantage" {
+  version = "0.1.10"
+  hashes = [
+    "h1:9oVV7RwiaFYMB2joL5AyNGpydAratRRUYo6x6ly73Ow=",
+    "zh:00b99384660e25fef6ac3be67d2d2291893d94489421070f78b03fcb105ad7a2",
+    "zh:231044d05e5b69f56530faa2d94acd2dcf33fbfa32e1e1fa60f94bc731541901",
+    "zh:434382aaf4a9462f7a7aa651269da86c11478a7ae4095c498fb20338e2f6c8cc",
+    "zh:4456991a78d3552c1cfa125c620dd16546dbda6de837c28a40f4cd633c933423",
+    "zh:4bf0203f683223155a984489182ebd6ac5b73da8c73d8a9465541c608fd79d08",
+    "zh:5c6d41c66c454dafe582aecb2b9948cb7f3f8116ee83bff41bf1e0517a695274",
+    "zh:709211fa764c4803449c4504bb8b2ee60020780e6fbcbe7313857a4f71710e4b",
+    "zh:784711ba4d7516b2a08fee0f9a5bbd78460d7be0e819261063e1a4920ea769f2",
+    "zh:829e558049044e094e194012af69d229f590eaa9ae4af231c5cefd80ab0cf519",
+    "zh:8514d7ebee7c907de2b725ff7bae124bb66b2c6837e79cf02ea0d12084e91dd8",
+    "zh:890df766e9b839623b1f0437355032a3c006226a6c200cd911e15ee1a9014e9f",
+    "zh:93b1fd5f6585610b0d7c52cf634bdcbf8d03e36f545aee8f1f9fef3c626ea660",
+    "zh:dfbc9c6563acfafb435eaa3e47dbdeaf5fdbae3c41ddfc6204af1b97895f8f96",
+    "zh:f7e58dce0c5984859224b67616bb68911709da6eec316f0a765612b0bf036b69",
+    "zh:fe90b96ba5ce6f62bf0f136bf5e1c87820123cf47111722999a0226468f3dc3e",
+  ]
+}
